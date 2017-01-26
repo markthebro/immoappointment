@@ -1,4 +1,3 @@
 # ImmoAppointment
 
-## Über dieses Projekt
-    Folgt!
+## Über dieses ProjektFolgt!
